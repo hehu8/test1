@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 afafd 123
 123
 yucheng dev merge master
+dev2 to master
