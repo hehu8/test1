@@ -12,3 +12,4 @@ windows2
 windows3
 windows4
 windows6
+windows7
